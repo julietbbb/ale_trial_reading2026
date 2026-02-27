@@ -4,7 +4,7 @@ A simple, single-page web app for ranking the pubs on the Reading Ale Trail usin
 
 ## How it works
 
-You're shown two pubs at a time and pick whichever you'd rather visit. The app uses a binary insertion sort under the hood, so it takes around 90 comparisons to produce a fully ordered ranking of all 21 pubs. A live leaderboard updates as you go, and once you're done you can copy and share your final results.
+You're shown two pubs at a time and pick whichever you'd rather visit. The app uses a binary insertion sort under the hood, so it takes around 90 comparisons to produce a fully ordered ranking of all 24 pubs. A live leaderboard updates as you go, and once you're done you can copy and share your final results.
 
 ## Running it
 
